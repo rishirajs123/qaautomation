@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QA Automation</string>
+    
+    <!-- Feature Titles -->
+    <string name="feature_ip_geolocation">IP Geolocation</string>
+    <string name="feature_network_logs">Network Logs</string>
+    <string name="feature_internet_connectivity">Internet Connectivity</string>
+    <string name="feature_internet_speed">Internet Speed</string>
+    <string name="feature_gps_geolocation">GPS Location</string>
+    <string name="feature_language_locale">Language &amp; Locale</string>
+    <string name="feature_device_time">Device Time</string>
+    <string name="feature_browser">Browser</string>
+    
+    <!-- Common Strings -->
+    <string name="refresh">Refresh</string>
+    <string name="last_checked">Last checked: %1$s</string>
+    <string name="status_success">Success</string>
+    <string name="status_error">Error</string>
+    <string name="status_warning">Warning</string>
+    <string name="status_info">Info</string>
+    
+    <!-- IP Geolocation -->
+    <string name="ip_address">IP Address: %1$s</string>
+    <string name="country">Country: %1$s</string>
+    
+    <!-- Network Logs -->
+    <string name="request_headers">Request Headers</string>
+    <string name="response_headers">Response Headers</string>
+    <string name="request_body">Request Body</string>
+    <string name="response_body">Response Body</string>
+    <string name="curl_command">CURL Command</string>
+    <string name="response_time">Response Time: %1$s ms</string>
+    
+    <!-- Internet Connectivity -->
+    <string name="ping_result">Ping to %1$s: %2$s ms</string>
+    <string name="packet_loss">Packet Loss: %1$s%%</string>
+    <string name="connectivity_status">Connectivity Status: %1$s</string>
+    
+    <!-- Internet Speed -->
+    <string name="download_speed">Download Speed: %1$s Mbps</string>
+    <string name="upload_speed">Upload Speed: %1$s Mbps</string>
+    <string name="latency">Latency: %1$s ms</string>
+    
+    <!-- GPS Geolocation -->
+    <string name="latitude">Latitude: %1$s</string>
+    <string name="longitude">Longitude: %1$s</string>
+    <string name="accuracy">Accuracy: %1$s m</string>
+    <string name="address">Address: %1$s</string>
+    
+    <!-- Language &amp; Locale -->
+    <string name="system_language">System Language: %1$s</string>
+    <string name="system_locale">System Locale: %1$s</string>
+    <string name="date_format">Date Format: %1$s</string>
+    <string name="time_format">Time Format: %1$s</string>
+    <string name="currency_symbol">Currency Symbol: %1$s</string>
+    
+    <!-- Device Time -->
+    <string name="current_time">Current Time: %1$s</string>
+    <string name="timezone">Timezone: %1$s</string>
+    <string name="utc_offset">UTC Offset: %1$s</string>
+    <string name="daylight_saving">Daylight Saving: %1$s</string>
+    <string name="time_drift">Time Drift: %1$s ms</string>
+</resources> 

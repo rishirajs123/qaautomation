@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.qaautomation.test">
+
+    <instrumentation
+        android:name="com.example.qaautomation.HiltTestRunner"
+        android:targetPackage="com.example.qaautomation"
+        android:handleProfiling="true"
+        android:functionalTest="true" />
+
+    <application
+        android:debuggable="true"
+        android:testOnly="true" />
+</manifest> 
