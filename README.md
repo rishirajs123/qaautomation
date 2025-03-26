@@ -1,6 +1,6 @@
 # Android QA Automation Test App
 
-A comprehensive Android application designed for testing various device capabilities commonly used in Appium automation testing. This app serves as a diagnostic tool for cloud testing platforms like LambdaTest
+A comprehensive Android application designed for testing various device capabilities commonly used in Appium automation testing.
 
 ## Quick Start Guide for Beginners
 
